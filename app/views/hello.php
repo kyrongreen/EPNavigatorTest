@@ -14,12 +14,9 @@
 		}
 
 		.welcome {
-			width: 300px;
-			height: 200px;
-			position: absolute;
-			
-			margin-left: -150px;
-			margin-top: -100px;
+			margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
 		}
 
 		a, a:visited {
