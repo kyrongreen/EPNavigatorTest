@@ -36,7 +36,7 @@
 <body>
 	<div class="welcome">
 
-		<a href="http://laravel.com" title="Laravel PHP Framework"><img src="EPNavigatorTest/images/epn-logo-pro-2.png" alt="Enrichment Program Navigator"></a>
+		<a href="http://laravel.com" title="Laravel PHP Framework"><img src="https://github.com/kyrongreen/EPNavigatorTest/blob/master/images/epn-logo-pro-2.png" alt="Enrichment Program Navigator"></a>
 		<h1>Hi Ky! You have arrived.</h1>
 
 	</div>
