@@ -36,7 +36,7 @@
 <body>
 	<div class="welcome">
 
-		<a href="http://laravel.com" title="Laravel PHP Framework"><img src="https://162.243.255.128/images/epn-logo-pro-2.png" alt="Enrichment Program Navigator"></a>
+		<a href="http://laravel.com" title="Laravel PHP Framework"><img src="http://images.craigslist.org/00a0a_7147PLmcVz4_600x450.jpg" alt="Enrichment Program Navigator"></a>
 		<h1>Hi Ky! You have arrived.</h1>
 
 	</div>
