@@ -14,7 +14,7 @@
 		}
 
 		.welcome {
-			margin: 0 auto;
+			margin: 300 auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
 		}
