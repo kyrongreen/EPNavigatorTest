@@ -14,9 +14,22 @@
 		}
 
 		.welcome {
-			margin: 300 auto;
+			/*margin: 300 auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
+*/
+
+  		position:absolute;
+	top: 50%;
+	left: 50%;
+	width:30em;
+	height:18em;
+	margin-top: -9em; /*set to a negative number 1/2 of your height*/
+	margin-left: -15em; /*set to a negative number 1/2 of your width*/
+
+
+
+
 		}
 
 		a, a:visited {
